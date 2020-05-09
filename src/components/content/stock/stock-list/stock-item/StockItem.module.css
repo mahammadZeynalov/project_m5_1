@@ -1,0 +1,50 @@
+.ticker {
+  font-size: 10px;
+  color: rgba(0, 0, 0, 0.5);
+  width:150px;
+  height:10px;
+}
+
+.company {
+  font-size: 18px;
+  width:450px;
+  height:22px;
+}
+
+.priceInteger {
+  font-size: 22px;
+  width:200px;
+  text-align: right;
+  height:10px;
+}
+
+.priceDecimal {
+  font-size: 14px;
+
+}
+
+.tr{
+  height:30px;
+}
+
+.row {
+  width: 100%;
+  display:flex;
+  justify-content: space-around;
+  height:30px;
+}
+
+.tr:hover {
+  background: rgba(131, 58, 224, 0.05);
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}

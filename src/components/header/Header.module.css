@@ -1,0 +1,14 @@
+.wrapper {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:9%;
+    padding-top:15px;
+    background: white;
+    z-index: 999;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.15);
+}
+
